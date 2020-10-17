@@ -8,7 +8,10 @@
     ],
     "veg": [
         {"item":"Veg-Sizzler","Cost":400},
-        {"item":"Paneer-Tikka","Cost":300}
+        {"item":"Paneer-Tikka","Cost":300},
+        {"item":"Paneer-Kurchan","Cost":380},
+        {"item":"Paalak-Paneer","Cost":350},
+        {"item":"Tomato soup","Cost":100}
         
         ]
        
